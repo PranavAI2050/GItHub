@@ -1,1 +1,2 @@
-console.log("GitHib is Working");
+console.log("Git is working!");
+console.log("New logging feature added.");
